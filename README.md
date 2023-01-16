@@ -21,6 +21,8 @@ Os exercícios resolvidos foram:
 - [1561 - Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
 - [455 - Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 
+Vídeo da apresentação está aqui: [Apresetnção](./assets/PA%20-%20Apresenta%C3%A7%C3%A3o%20-%20Greedy.mp4)
+
 ## Screenshots
 
 ![Exercício 55](./assets/leetcode_55.png)
