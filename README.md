@@ -14,6 +14,7 @@ Os objetivos desse projeto, é praticar os conhecimentos adquiridos em sala de a
 
 ## Screenshots
 
+![Exercício 45](./assets/leetcode_45.png)
 ![Exercício 55](./assets/leetcode_55.png)
 
 ## Instalação 
