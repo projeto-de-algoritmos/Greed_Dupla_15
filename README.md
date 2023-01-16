@@ -10,12 +10,13 @@
 | 18/0114093  |  Lucas Ursulino Boaventura |
 
 ## Sobre 
-Os objetivos desse projeto, é praticar os conhecimentos adquiridos em sala de aula sobre o assunto **Algoritmos Ambiciosos**. Para isso, foram resolvidos alguns exercícios da Plataforma [LeetCode](https://leetcode.com/tag/greedy/), que já fornece alguns exercícios da categoria *Greedy*.
+Os objetivos desse projeto, é praticar os conhecimentos adquiridos em sala de aula sobre o assunto **Algoritmos Ambiciosos**. Para isso, foram resolvidos alguns exercícios da Plataforma [LeetCode](https://leetcode.com/tag/greedy/), que já fornece alguns exercícios com a tag *Greedy*.
 
 ## Screenshots
 
 ![Exercício 45](./assets/leetcode_45.png)
 ![Exercício 55](./assets/leetcode_55.png)
+![Exercício 122](./assets/leetcode_122.png)
 
 ## Instalação 
 **Linguagem**: Python e C++<br>
