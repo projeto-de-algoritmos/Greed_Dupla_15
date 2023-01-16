@@ -1,44 +1,28 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 15<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0033034  |  Hérick Ferreira de Souza Portugues |
+| 18/0114093  |  Lucas Ursulino Boaventura |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Os objetivos desse projeto, é praticar os conhecimentos adquiridos em sala de aula sobre o assunto **Algoritmos Ambiciosos**. Para isso, foram resolvidos alguns exercícios da Plataforma [LeetCode](https://leetcode.com/tag/greedy/), que já fornece alguns exercícios da categoria *Greedy*.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Exercício 55](./assets/leetcode_55.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: Python e C++<br>
+
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
